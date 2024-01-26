@@ -1,4 +1,4 @@
 ## Instalations
-cd my-svelte-project <br />
+cd svelteportfolio <br />
 npm install <br />
 npm run dev
