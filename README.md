@@ -1,4 +1,4 @@
 ## Instalations
-cd my-svelte-project
-npm install
+cd my-svelte-project <br />
+npm install <br />
 npm run dev
